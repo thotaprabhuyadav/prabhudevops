@@ -1,2 +1,2 @@
 !#/bin/sh
-echo "what is your name"
+echo "Welcome to Tetrasoft"
